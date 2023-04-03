@@ -1,0 +1,10 @@
+hello GIT
+
+karthik is here
+
+git init
+dir
+git status
+
+single file--- git add text.txt .
+multiple files -- git add * .
